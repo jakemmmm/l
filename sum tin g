@@ -1,0 +1,8 @@
+# Define the students' grades
+john_grade = 85
+jane_grade = 90
+
+# Calculate the average
+average_grade = (john_grade + jane_grade) / 2
+
+print(f"The class average is: {average_grade}")
